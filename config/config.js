@@ -1,11 +1,11 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "Zhea",
+    name: "bibimingming",
     sex: "未知",
-    age: "4",
+    age: "114514",
     phone: "114514",
-    email: "amgyzhea@qq.com",
-    address: "现居北京市",
+    email: "mingming611209@outlook.com",
+    address: "现居河南省",
     qq: "3079709365",
     log: "个人主页",
     excpect_work: "摆烂的",
@@ -38,8 +38,8 @@ var config = {
 
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about: "<p>我的信息第一行</p>" +
-        "<p>我的信息第二行</p>" +
+    about: "<p>下气可乐之通知书</p>" +
+        "<p>我的</p>" +
         "<p>我的信息第三行</p>",
 
 
@@ -49,7 +49,7 @@ var config = {
     * ["技能点", 掌握程度, "技能条颜色"]
     */  
     skills: [
-        ["Java", 80, "red"],
+        ["Minecraft", 80, "red"],
         ["GoLang", 77, "blue"],
         ["SQL", 75, "#1abc9c"],
         ["HTML5", 67, "rgba(0,0,0)"],
